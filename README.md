@@ -1,13 +1,13 @@
 # Acme Haiku 🐸
-This project was born as exercise during the lessons of Analisi e Progettazione del Software, held by Professor Luca Cabibbo, at Roma Tre University.
+This project was born as exercise during the lessons of **Analisi e Progettazione del Software**, held by Professor **Luca Cabibbo**, at Roma Tre University.
 
-The goal of the project is to implement a use case named "Acme Haiku", focusing on software engineering best practices implementation through an iterative process of refinement such as:
+The goal of the project is to implement a use case named "**Acme Haiku**", focusing on software engineering best practices implementation through an iterative process of refinement such as:
 
-* project patterns application (GRASP)
-* object-oriented development (OOA/D)
-* test-driven development (TDD)
-* code quality control (CQCL)
-* pair programming (PP)
+* **project patterns application (GRASP)**
+* **object-oriented development (OOA/D)**
+* **test-driven development (TDD)**
+* **code quality control (CQCL)**
+* **pair programming (PP)**
 
 ## 📝 Domain Description
 Acme Haiku is a software application dedicated to "Stagno Antico" community, in order to let them share japanese haiku. The application allows users to:
@@ -18,21 +18,21 @@ Acme Haiku is a software application dedicated to "Stagno Antico" community, in 
 * rate haikus created by other users using a virtual value named "frogs"
 
 ## ⚒️ Technologies and Tools
-* Programming Language: Java 17 (LTS)
-* Build Tool: Maven
-* IDE: Google Antigravity
-* Version Control System: Git / GitHub
-* Testing Framework: JUnit 5
-* Modeling Language: UML
+* **Programming Language**: `Java 17 (LTS)`
+* **Build Tool**: `Maven`
+* **IDE**: `Google Antigravity`
+* **Version Control System**: `Git / GitHub`
+* **Testing Framework**: `JUnit 5`
+* **Modeling Language**: `UML`
 
 ## 🏗️ Project Architecture
-The software has a 3-layers architecture, separating the domain layer from the presentation layer and the persistence layer to guarantee a good separation of concerns and a low coupling between the layers.
+The software has a **3-layers architecture**, separating the domain layer from the presentation layer and the persistence layer to guarantee a good separation of concerns and a low coupling between the layers.
 * `it.uniroma3.inginf.acmehaiku.domain`: domain layer, containing the business logic
 * `it.uniroma3.inginf.acmehaiku.ui`: presentation layer, containing the user interface
 * `it.uniroma3.inginf.acmehaiku.persistence`: persistence layer, containing the data storage
 
 ## 🚀 How to run the application
-Make sure you have Java 17 installed.
+Make sure you have **Java 17** installed.
 
 1. Clone the repository
    ```bash
