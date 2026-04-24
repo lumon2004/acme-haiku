@@ -36,7 +36,7 @@ Make sure you have **Java 17** installed.
 
 1. Clone the repository
    ```bash
-   git clone [https://github.com/lumon2004/acme-haiku.git](https://github.com/lumon2004/acme-haiku.git)
+   git clone https://github.com/lumon2004/acme-haiku.git
    ```
 2. Compile the project with Maven
    ```bash
