@@ -1,4 +1,4 @@
-package it.uniroma3;
+package it.uniroma3.inginf.acmehaiku;
 
 /**
  * Hello world!
