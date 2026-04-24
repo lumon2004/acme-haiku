@@ -51,4 +51,4 @@ Make sure you have **Java 17** installed.
 * Analisi e Progettazione del Software course – Prof. Luca Cabibbo
 * Textbook: *Craig Larman "Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development", Pearson, 2004*
 
-Realized by Luca Monaco – Computer Engineering student at Roma Tre University (Academic Year 2025/2026)
+Realized by [**Luca Monaco**](https://github.com/lumon2004) – Computer Engineering student at Roma Tre University (Academic Year 2025/2026)
